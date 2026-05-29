@@ -1,6 +1,6 @@
 # PROJECT3_BreathRateSensor
 
-# BreatheWell™: Multi-Sensor Breath-Rate Monitoring System
+# BreatheWell: Multi-Sensor Breath-Rate Monitoring System
 
 An advanced embedded perception and data fusion pipeline developed for the **TRC3500 Sensors and Artificial Perception** project (Semester 1, Monash University Malaysia). This system overcomes the environmental and motion vulnerabilities of single-sensor biometric monitors by intelligently fusing real-time digital streams from two complementary hardware channels.
 
